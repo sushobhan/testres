@@ -1,0 +1,2 @@
+# testres
+get srat
